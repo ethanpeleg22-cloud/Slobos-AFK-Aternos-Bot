@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kingtsune1234.aternos.me:28005",
+    "ip": "kingtsune1234.aternos.me",
     "port": 28005,
     "version": "",
     "try-creative": false
